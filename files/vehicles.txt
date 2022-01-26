@@ -1,0 +1,5 @@
+M_1 Scooter 0.2 13
+M_3 Bicycle 0.3 19
+M_4 Bicycle 0.5 30
+M_5 Car 0.6 200
+M_6 Car 0.8 320

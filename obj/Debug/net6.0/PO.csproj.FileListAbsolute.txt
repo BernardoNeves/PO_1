@@ -1,0 +1,15 @@
+D:\IPCA\github\PO\bin\Debug\net6.0\PO.exe
+D:\IPCA\github\PO\bin\Debug\net6.0\PO.deps.json
+D:\IPCA\github\PO\bin\Debug\net6.0\PO.runtimeconfig.json
+D:\IPCA\github\PO\bin\Debug\net6.0\PO.dll
+D:\IPCA\github\PO\bin\Debug\net6.0\ref\PO.dll
+D:\IPCA\github\PO\bin\Debug\net6.0\PO.pdb
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.csproj.AssemblyReference.cache
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.GeneratedMSBuildEditorConfig.editorconfig
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.AssemblyInfoInputs.cache
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.AssemblyInfo.cs
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.csproj.CoreCompileInputs.cache
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.dll
+D:\IPCA\github\PO\obj\Debug\net6.0\ref\PO.dll
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.pdb
+D:\IPCA\github\PO\obj\Debug\net6.0\PO.genruntimeconfig.cache
