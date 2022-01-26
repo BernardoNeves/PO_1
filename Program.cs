@@ -6,7 +6,7 @@ using System.Text;
 using System.Data;
 using System.IO;
 
-namespace PO // Note: actual namespace depends on the project name.
+namespace PO // Note: actual namespace depends on the project name
 {
     internal class Program
     {
